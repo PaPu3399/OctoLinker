@@ -47,3 +47,4 @@ Our [Privacy Policy](https://octolinker.now.sh/privacy/) describes our practices
 OctoLinker is not affiliated with, sponsored by, or endorsed by GitHub Inc.
 
 Copyright (c) 2014–present [Stefan Buck](https://stefanbuck.com/) and [other contributors](https://github.com/OctoLinker/OctoLinker/graphs/contributors).
+gh repo clone OctoLinker/OctoLinker
